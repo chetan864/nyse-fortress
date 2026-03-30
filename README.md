@@ -3,7 +3,7 @@
 Auto-publishes a daily market strategy briefing to **GitHub Pages** every weekday at **9:35 AM ET**.  
 Uses real market data fetched via the **Anthropic Claude API with web search**.
 
-**Your blog URL will be:** `https://YOUR-USERNAME.github.io/nyse-fortress`
+**Your blog URL will be:** `https://chetan864.github.io/nyse-fortress`
 
 ---
 
